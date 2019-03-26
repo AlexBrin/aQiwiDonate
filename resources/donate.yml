@@ -1,0 +1,9 @@
+- name: "Золотишко"
+  description: "Пожертвовать рублик и сообщить об этом всему серверу"
+  price: 1
+  command: "say {username} проверил работу доната и подарил нам рублик :з"
+  image: "https://d12swbtw719y4s.cloudfront.net/images/G2xFvdDN/AoBw1U8Iva73d08P3d3K/Gold.fw.jpeg?w=265"
+- name: "awesome"
+  description: "Можно\n§aдаже так"
+  price: 1
+  command: "say {username} убедился в работе"
