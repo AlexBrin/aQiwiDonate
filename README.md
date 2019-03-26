@@ -5,7 +5,6 @@ aQiwiDonate
 [Получить токен Qiwi API](https://qiwi.com/api)
 
 ![Пример работы плагина](https://media.giphy.com/media/1n75nSmSJlKz8C3Epq/giphy.gif)
-[Посмотреть gif]()
 
 ## Настройка
 ### Конфиг
